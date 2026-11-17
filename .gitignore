@@ -1,0 +1,8 @@
+# WorkBuddy 运行时数据
+.workbuddy/
+
+# 系统/编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
